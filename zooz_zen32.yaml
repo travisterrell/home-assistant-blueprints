@@ -8,8 +8,6 @@ blueprint:
       description: List of available Zooz ZEN32 switches.
       selector:
         device:
-          integration: zwave_js
-          manufacturer: Zooz
     scene_5:
       name: Scene 5 - Pressed Once
       description: Action to run when button is pressed once.
