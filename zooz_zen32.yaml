@@ -1,5 +1,5 @@
 blueprint:
-  name: ZEN32 (Z-Wave JS)
+  name: Zooz ZEN32
   description: Create automations for the Zooz ZEN32 switch using the Z-Wave JS integration.
   domain: automation
   input:
